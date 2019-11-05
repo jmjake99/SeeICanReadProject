@@ -1,8 +1,7 @@
-Assignment 6 Jake Lionetti
+Links to Github and Trello
 
-github link:
+Github link:
+https://github.com/jmjake99/SeeICanReadProject
 
-https://github.com/jmjake99/SeeICanReadITD210
-
-trello link:
+Trello link:
 https://trello.com/b/eNKoTohw/see-i-can-read
