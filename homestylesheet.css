@@ -58,6 +58,15 @@ div#video {
 	margin-top: 0px;
 }
 
+div#quote {
+	font-size: 24px;
+	text-align: right;
+	background-color: gray;
+	color: rgb(214,186,45);
+	margin-right: 25px;
+}
+
+
 img {
   display: block;
   margin-left: auto;
