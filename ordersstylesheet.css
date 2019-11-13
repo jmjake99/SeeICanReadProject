@@ -36,6 +36,7 @@ header {
 
 h1 {
   text-align: center;
+	font-weight: 700;
   margin-top:20px;
   margin-bottom:0px;
   background-color: white;
@@ -49,11 +50,27 @@ h2 {
 	margin bottom: 15px;
 }
 
-div#bookinfo {
-	font-size: 20px;
-  text-align: right;
+#howtoorder {
+	font-size: 27px;
+  text-align: center;
   margin-right: 200px;
   margin-left: 150px;
+	font-family: sans-serif;
+	font-weight: 500;
+}
+
+#myorders {
+	text-align: center;
+	float: right;
+	height: 20%;
+	width: 10%;
+}
+
+#phoneorders {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: blue;
 }
 
 body {
@@ -62,11 +79,11 @@ body {
 
 #pic3 {
 	text-align: left;
-  height: 20%;
+  height: 245px;
   width: 10%;
-	margin-left: 320px;
-	margin-top: 0px;
-	margin-bottom: 80px;
+	float: left;
+	margin-left: 85px;
+	margin-right: auto;
 }
 
 img {
