@@ -5,17 +5,19 @@ See I Can Read
 Cascading Style Sheet
 Author: Jake Lionetti
 Date: 10/24/2019
-Filename: contactstylesheet.css
+Filename: linksstylesheet.css
 */
-
-
 html {
+	background-color: red;
+}
+
+body {
 	background-color: red;
 }
 
 header {
 	margin-top: 20px;
-	margin-bottom: 80px;
+	margin-bottom: 100px;
 	text-align: center;
 	color: yellow;
 	font-size: 45px;
@@ -36,38 +38,34 @@ header {
 
 h1 {
   text-align: center;
-  margin-top:20px;
+  margin-top:25px;
   margin-bottom:0px;
   background-color: white;
 }
 
 h2 {
 	background-color: gray;
-	background-size: 55px;
-	background-position: bottom;
 	margin-top: 0px;
-	margin bottom: 15px;
 }
 
-div#content{
-	font-size: 25px;
-	margin-left: 35px;
-	margin-top: 0px;
-	padding-left: 4%;
+h4 {
+	text-align: center;
+	font-size: 16px;
 }
 
-#pic1 {
+div#video {
+	margin-left: 16px;
+	margin-top: 0px;
+}
+
+div#quote {
+	font-size: 24px;
 	text-align: right;
-	height: 340px;
-	width: 400px;
-	padding-right: 5%;
-	padding-top: 8%;
-	padding-left: 5%;
+	background-color: gray;
+	color: rgb(214,186,45);
+	margin-right: 25px;
 }
 
-body {
-	background-color: red;
-}
 
 img {
   display: block;
@@ -76,11 +74,6 @@ img {
   margin-bottom: 20px;
   width: 10%;
   height:120px;
-}
-
-h4 {
-	text-align: center;
-	font-size: 16px;
 }
 
 footer {
@@ -162,9 +155,6 @@ nav a:hover,nav a:active{
 color:  blue;
 }
 
-footer {
-	background-color: red;
-}
 
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */

@@ -5,7 +5,7 @@ See I Can Read
 Cascading Style Sheet
 Author: Jake Lionetti
 Date: 10/24/2019
-Filename: contactstylesheet.css
+Filename: cpstylesheet.css
 */
 
 
@@ -49,20 +49,63 @@ h2 {
 	margin bottom: 15px;
 }
 
-div#content{
-	font-size: 25px;
-	margin-left: 35px;
-	margin-top: 0px;
-	padding-left: 4%;
+#select {
+	font-size: 23px;
+  font-family: sans-serif;
+	text-align: center;
+  margin-top: 0px;
 }
 
-#pic1 {
-	text-align: right;
-	height: 340px;
-	width: 400px;
+#cpimage {
+	text-align: center;
+	height: 100px;
+	width: 20%;
 	padding-right: 5%;
-	padding-top: 8%;
 	padding-left: 5%;
+  padding-bottom: 5%;
+}
+
+table {
+	border-spacing: 5px;
+	background-color: gray;
+}
+
+table th {
+	width: 55px;
+	background-color: darkgray;
+	font-size: 35px;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+#a-cp {
+	width: 60%;
+	height: auto;
+}
+
+#b-cp {
+	width: 60%;
+	height: auto;
+}
+
+#c-cp {
+	width: 60%;
+	height: auto;
+}
+
+#d-cp {
+	width: 60%;
+	height: auto;
+}
+
+#e-cp {
+	width: 60%;
+	height: auto;
+}
+
+#f-cp {
+	width: 60%;
+	height: auto;
 }
 
 body {
