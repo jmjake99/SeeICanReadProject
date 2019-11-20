@@ -53,16 +53,18 @@ div#content{
 	font-size: 25px;
 	margin-left: 35px;
 	margin-top: 0px;
-	padding-left: 4%;
+	padding-left: 5%;
+	padding-top: 4%;
 }
 
 #pic1 {
 	text-align: right;
-	height: 340px;
-	width: 400px;
+	height: 250px;
+	width: 260px;
 	padding-right: 5%;
 	padding-top: 8%;
 	padding-left: 5%;
+	padding-bottom: 3%;
 }
 
 body {

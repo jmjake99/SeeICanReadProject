@@ -57,6 +57,7 @@ h2 {
   margin-left: 150px;
 	font-family: sans-serif;
 	font-weight: 500;
+	padding-top: 3%;
 }
 
 #myorders {
@@ -84,6 +85,7 @@ body {
 	float: left;
 	margin-left: 85px;
 	margin-right: auto;
+	padding-top: 5%;
 }
 
 img {

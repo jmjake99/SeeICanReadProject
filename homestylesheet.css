@@ -56,6 +56,8 @@ h4 {
 div#video {
 	margin-left: 16px;
 	margin-top: 0px;
+	padding-top: 5%;
+	padding-left: 3%;
 }
 
 div#quote {
@@ -64,8 +66,17 @@ div#quote {
 	background-color: gray;
 	color: rgb(214,186,45);
 	margin-right: 25px;
+	padding-bottom: 5%;
+	padding-right: 4%;
 }
 
+#seeicanreadpic{
+	float: right;
+	padding-right: 6%;
+	padding-top: 5%;
+	width: 30%;
+	height: auto;
+}
 
 img {
   display: block;
