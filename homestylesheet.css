@@ -8,11 +8,11 @@ Date: 10/24/2019
 Filename: homestylesheet.css
 */
 html {
-	background-color: red;
+	background-color: #FF4848;
 }
 
 body {
-	background-color: red;
+	background-color: #FF4848;
 }
 
 header {
@@ -21,7 +21,6 @@ header {
 	text-align: center;
 	color: yellow;
 	font-size: 45px;
-	background-color: red;
 }
 
 #title	{
@@ -30,7 +29,7 @@ header {
 	margin-left: 100px;
 	margin-right: 100px;
 	font-size: 45px;
-	background-color: red;
+	background-color: #FF4848;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-bottom: 30px;
@@ -44,7 +43,7 @@ h1 {
 }
 
 h2 {
-	background-color: gray;
+	background-color: #99C7FF;
 	margin-top: 0px;
 }
 
@@ -63,8 +62,8 @@ div#video {
 div#quote {
 	font-size: 24px;
 	text-align: right;
-	background-color: gray;
-	color: rgb(214,186,45);
+	background-color: #99C7FF;
+	color: yellow;
 	margin-right: 25px;
 	padding-bottom: 5%;
 	padding-right: 4%;
@@ -84,13 +83,13 @@ img {
   margin-right: auto;
   margin-bottom: 20px;
   width: 10%;
-  height:120px;
+  height: 120px;
 }
 
 footer {
-    background-color: red;
+    background-color: #FF4848;
     text-align: center;
-    color: rgb(214,186,45);
+    color: yellow;
     font-size: 30px;
 }
 
@@ -128,7 +127,7 @@ footer {
 
 /* navigation bar styles */
 .navbar {
-background-color: red;
+background-color: #FF4848;
 }
 
 /* Navbar links */
@@ -146,7 +145,7 @@ border: 5px;
 
 /* Navbar links on mouse-over */
 .navbar a:hover {
- background-color: red;
+ background-color: #FF4848;
  color: blue;
 }
 nav a {
